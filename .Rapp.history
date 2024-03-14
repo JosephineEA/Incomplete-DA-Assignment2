@@ -1,0 +1,3 @@
+load("/Users/songqiao/code/Incomplete Data Analysis/Assignment2/dataex2.Rdata")
+load("/Users/songqiao/code/Incomplete Data Analysis/Assignment2/dataex4.Rdata")
+load("/Users/songqiao/code/Incomplete Data Analysis/Assignment2/dataex5.Rdata")
